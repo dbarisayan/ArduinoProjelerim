@@ -29,6 +29,6 @@ Arduino ile ürettiğim projeleri devre şemaları ile paylaştığım bir repo.
   
 ## Kodlar
 
-Kodlar için `kediEvi.md'ye bakın.
+Kodlar için `kediEvi.ino'ye bakın.
 
   
